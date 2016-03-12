@@ -4,10 +4,9 @@ tricky: i write this in 2016/3/7 13:25.
 tricky: and then.. all of you can do the same thing as what i've done!
 tricky: type your name and time below!
 
-i'm yvonneiwi!
-i'm so beautiful!
-i write this in 2016/3/8 19:07.
-
+yvonne:i'm yvonneiwi!
+yvonne:i'm so beautiful!
+yvonne:i write this in 2016/3/8 19:07.
 
 i'm Aspire-1 and you can call me handsome leaf.
 i write this in 2016/3/8 21:34.
@@ -32,3 +31,4 @@ Code1999: I'm Code1999
 Code1999: Aha,you mean I'm handsome.
 Code1999: Oh,be modest.
 Code1999: I write this on 2016/3/9 18:37
+
