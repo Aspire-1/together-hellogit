@@ -7,9 +7,10 @@ type your name and time below!
 i'm yvonneiwi!
 i write this in 2016/3/7 14:24.
 
-i'm Aspire-1 and you can call me handsome leaf.
-i write this in 2016/3/8 21:34.
+Aspire-1:i'm Aspire-1 and you can call me handsome leaf.
+Aspire-1:i write this in 2016/3/8 21:34.
 
-i have changed this file more than three times.
-i think i am not only handsome but also industrious.
-i write this in 2016/3/9 13:48.
+
+Aspire-1:i have changed this file more than three times.
+Aspire-1:i think i am not only handsome but also industrious.
+Aspire-1:i write this in 2016/3/9 13:48.
